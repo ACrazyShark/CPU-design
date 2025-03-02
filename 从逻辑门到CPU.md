@@ -1,6 +1,6 @@
 ### 1 计算机层次结构
 
-![image-20250302124729037](C:\Users\Free\AppData\Roaming\Typora\typora-user-images\image-20250302124729037.png)
+![image1](..\pic\image1.png)
 
 
 
@@ -32,7 +32,7 @@
 1. 其中 M 表示==存储单元数==，也称字容量
 2. N 表示每个==存储单元存储的二进制位数==，也称位容量。
 
-![image-20250302125701938](C:\Users\Free\AppData\Roaming\Typora\typora-user-images\image-20250302125701938.png)
+![image2](..\pic\image2.png)
 
 > 增加主存容量能==减少程序运行期间访问辅存的次数==，有利于提高程序的执行速度，也有利于计算机性能的提高。
 
